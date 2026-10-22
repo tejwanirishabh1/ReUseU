@@ -1,0 +1,14 @@
+/target/
+
+# Eclipse settings
+.settings/
+.project
+.classpath
+
+# IntelliJ settings
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
